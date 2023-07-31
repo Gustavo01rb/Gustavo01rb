@@ -31,7 +31,7 @@ Sou um estudante de Engenharia de Computação no CEFET, apaixonado por inovaç�
 ## 💡 Sobre mim
 
 * 👨‍🎓 Estudante de Engenharia de Computação no CEFET
-* 💼 Estagiário Desenvolvedor na Vilesoft
+* 💼 Estagiário Desenvolvedor na Synergia
 * 💻 Apaixonado por explorar novas tecnologias e expandir horizontes
 * 🎮 Viciado em games e sempre em busca de desafios emocionantes
 
@@ -49,14 +49,6 @@ Sou um estudante de Engenharia de Computação no CEFET, apaixonado por inovaç�
 <br>
 
 
-## 📚 Aprendendo sobre 
-
-* API's rest
-* Node.JS
-* Java Script
-* Express.JS
-
-<br>
 
 
 ## 📬 Vamos nos conectar?
